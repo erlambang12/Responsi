@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="relativeLayout" type="id" />
+    <item name="txt_profile" type="id" />
+    <item name="relativeLayout1" type="id" />
+    <item name="txt_bank" type="id" />
+</resources>
